@@ -10,3 +10,4 @@ export { InputView } from "./input";
 export { TokenMetadata } from "./tokenMetadata";
 export { ContactView } from "./contact";
 export { MarketPlace } from "./marketplace";
+export { OpenBookMarketView } from './openbookMarket';

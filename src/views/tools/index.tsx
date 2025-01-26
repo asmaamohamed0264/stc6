@@ -42,6 +42,12 @@ export const ToolView = ({
       icon: <MdGeneratingTokens />,
       function: setOpenMarketPlace,
     },
+      // ... existing tools
+      {
+        name: "OpenBook Market",
+        icon: <MdGeneratingTokens />,
+        function: setOpenBookMarket, 
+      },
     // {
     //   name: "Top Token",
     //   icon: <MdGeneratingTokens />,
